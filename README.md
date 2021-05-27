@@ -9,7 +9,7 @@
 - 💬 Connect with me at https://www.linkedin.com/in/akanksha-saini-6660731a5/
 - 📫 Reach me at akankshasaini790@gmail.com
 - 😄 Check out my website https://akanksha-prog.github.io/Portfolio-Project/
-- 🌱 I’m currently learning a new programming language
+- 🌱 I’m currently taking a Google certification program on UX Design
 
 # Connect with me:
 <p align="center">
