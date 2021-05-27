@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Akanksha Saini👋</h1>
-<h3 align="center">Frontend Developer | UI/UX Designer</h3>
+<h3 align="center">Frontend Developer | UI/UX | Graphic Designer</h3>
 
 # About Me: 
-<p>I am an Electronics and Communication Engineering Student, pursuing by B.Tech from National Institute of Technology, Uttarakhand, India. By passion, I am a Frontend developer, Web designer and UI/UX designer. I like to design and develop things. Other than that, I enjoy sketching, digital illustration and aesthetic photography.
-Lying in a cozy blanket with a novel in one hand and pizza in other is what I call a perfect holiday!</p>
+<p>Hey, I’m Akanksha! And I’m currently in my last year of B.Tech studying Electronics and Communication Engineering.</p>
+<p>I am a self-made designer working day-night to establish my name in the design industry. I love making things visually appealing and always admire how a little change in perspective can change the way things look and feel. Passion, Genuity and self-discipline are the three tiers of my life. Lately, I’ve been engaged in UI/UX, Graphic design and Front-end development.</p>
+<p>I want to create an impact on people’s lives with the power of creation!</p>
 
 - 💬 Connect with me at https://www.linkedin.com/in/akanksha-saini-6660731a5/
 - 📫 Reach me at akankshasaini790@gmail.com
