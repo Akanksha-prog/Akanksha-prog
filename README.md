@@ -22,7 +22,7 @@
 # Languages and Tools:
 
 <p align="center">
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919827.svg?token=exp=1620655385~hmac=d8e8dbb7a33dab0f8c03687e7bc7872e" alt="html5" width="40" height="40" style="margin: 10px"/>
+<img src="https://image.flaticon.com/icons/png/512/174/174854.png" alt="html5" width="40" height="40" style="margin: 10px"/>
 <img src="https://www.flaticon.com/svg/vstatic/svg/919/919826.svg?token=exp=1620655539~hmac=303367bd4bb9e1238e8c311e0aa66dd7" alt="css3" width="40" height="40" style="margin: 10px"/>
 <img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1620655596~hmac=a9202bc507e09f6067fc8b78436ff469" alt="javascript" width="40" height="40" style="margin: 10px"/>
 <img src="https://www.flaticon.com/svg/vstatic/svg/1348/1348052.svg?token=exp=1620655636~hmac=5149310041822a6bcbec230e0ae966de" alt="bootstrap" width="40" height="40" style="margin: 10px"/>  
