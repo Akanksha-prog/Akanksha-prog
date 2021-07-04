@@ -36,5 +36,5 @@
 <img src="https://i.pinimg.com/originals/b4/f2/5f/b4f25f7b9371227bb0062ac46a88e06e.png" alt="treejack" width="120" height="30" style="margin: 10px"/>
 <img src="https://149356519.v2.pressablecdn.com/wp-content/uploads/2015/08/balsamiq-logo-noborder-300x195.png" alt="balsamiq" width="70" height="40" style="margin: 10px"/>
 <img src="https://comparecamp.com/media/uploads/2020/05/cacoo-logo-300x123.png" alt="cacoo" width="70" height="30" style="margin: 10px"/>
-<img src="https://image.flaticon.com/icons/png/512/1126/1126012.png" alt="react" width="70" height="30" style="margin: 10px"/>
+<img src="https://image.flaticon.com/icons/png/512/1126/1126012.png" alt="react" width="40" height="40" style="margin: 10px"/>
 </p>
