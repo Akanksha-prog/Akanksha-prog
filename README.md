@@ -23,12 +23,11 @@
 
 <p align="center">
 <img src="https://image.flaticon.com/icons/png/512/174/174854.png" alt="html5" width="40" height="40" style="margin: 10px"/>
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919826.svg?token=exp=1620655539~hmac=303367bd4bb9e1238e8c311e0aa66dd7" alt="css3" width="40" height="40" style="margin: 10px"/>
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1620655596~hmac=a9202bc507e09f6067fc8b78436ff469" alt="javascript" width="40" height="40" style="margin: 10px"/>
-<img src="https://www.flaticon.com/svg/vstatic/svg/1348/1348052.svg?token=exp=1620655636~hmac=5149310041822a6bcbec230e0ae966de" alt="bootstrap" width="40" height="40" style="margin: 10px"/>  
-<img src="https://www.flaticon.com/svg/vstatic/svg/1822/1822899.svg?token=exp=1620655697~hmac=56c756d8ee94430af2d780ccbc1a71d1" alt="python" width="40" height="40" style="margin: 10px"/>
+<img src="https://image.flaticon.com/icons/png/512/732/732190.png" alt="css3" width="40" height="40" style="margin: 10px"/>
+<img src="https://image.flaticon.com/icons/png/512/919/919828.png" alt="javascript" width="40" height="40" style="margin: 10px"/>
+<img src="https://image.flaticon.com/icons/png/512/1348/1348026.png" alt="bootstrap" width="40" height="40" style="margin: 10px"/>  
+<img src="https://img-premium.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1625380600~hmac=39d0473d0051877a0608f94c0f24261a" alt="python" width="40" height="40" style="margin: 10px"/>
 <img src="https://www.flaticon.com/svg/static/icons/svg/2772/2772128.svg" width="40" height="40" style="margin: 10px"/>
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919836.svg?token=exp=1620655804~hmac=fcab1b77744e3109ca03e4a84760b5a5" alt="mysql" width="40" height="40" style="margin: 10px"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 10px"/>
 <img src="https://www.flaticon.com/svg/static/icons/svg/552/552224.svg" alt="xd" width="40" height="40" style="margin: 10px"/>
 <img src="https://www.flaticon.com/svg/static/icons/svg/552/552222.svg" alt="illustrator" width="40" height="40" style="margin: 10px"/>
@@ -37,5 +36,5 @@
 <img src="https://i.pinimg.com/originals/b4/f2/5f/b4f25f7b9371227bb0062ac46a88e06e.png" alt="treejack" width="120" height="30" style="margin: 10px"/>
 <img src="https://149356519.v2.pressablecdn.com/wp-content/uploads/2015/08/balsamiq-logo-noborder-300x195.png" alt="balsamiq" width="70" height="40" style="margin: 10px"/>
 <img src="https://comparecamp.com/media/uploads/2020/05/cacoo-logo-300x123.png" alt="cacoo" width="70" height="30" style="margin: 10px"/>
-<img src="https://www.flaticon.com/svg/vstatic/svg/1126/1126012.svg?token=exp=1620655879~hmac=e083e2833b061ae695dbc4b3ffbe23e3" alt="react" width="70" height="30" style="margin: 10px"/>
+<img src="https://image.flaticon.com/icons/png/512/1126/1126012.png" alt="react" width="70" height="30" style="margin: 10px"/>
 </p>
